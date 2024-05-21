@@ -44,7 +44,7 @@ In this project of the Modern UI/UX GPT-3 application, I set up the environment 
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/HTML">HTML</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/HTML">HTML5</a> </li>
     <li><a href="https://www.w3.org/Style/CSS/Overview.en.html">CSS</a></li>
     <li><a href="https://react.dev">React</a></li>
   </ul>
@@ -68,9 +68,10 @@ In this project of the Modern UI/UX GPT-3 application, I set up the environment 
 
 ### Key Features <a name="key-features"></a>
 
-- **[HTML]**
-- **[CSS]**
-- **[React]** 
+- **[Responsive Design]:** The layout adjusts smoothly to different screen sizes and orientations, providing a consistent user experience on any device.
+- **[Modern UI/UX]:**  A clean, intuitive design that focuses on usability and accessibility, making it easy for users to navigate and interact with the application.
+- **[Interactive Components]:** Utilizing React's component-based architecture to build interactive and reusable UI elements.
+- **[Optimized Performance]:**  Ensuring fast load times and smooth interactions through efficient coding practices and performance optimization techniques.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
